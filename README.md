@@ -32,3 +32,6 @@ NextJS, Typescript, Redux, Sanity, Stripe API, ...
 ## Sanity Deploy
 https://trongtam244-appleclone.sanity.studio/desk
 
+## App Deloy
+https://apple-store-clone-exrkmdv3k-trongtam01.vercel.app/
+
